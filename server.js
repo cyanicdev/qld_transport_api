@@ -14,6 +14,22 @@ let f_calendar = JSON.parse(temp);
 temp = fs.readFileSync('tsv/feed_info.json');
 let f_feed_info = JSON.parse(temp);
 
+temp = fs.readFileSync('tsv/routes.json');
+let f_routes = JSON.parse(temp);
+
+temp = fs.readFileSync('tsv/shapes.json');
+let f_shapes = JSON.parse(temp);
+
+temp = fs.readFileSync('tsv/stop_times.json');
+let f_stop_times = JSON.parse(temp);
+
+temp = fs.readFileSync('tsv/stops.json');
+let f_stops = JSON.parse(temp);
+
+temp = fs.readFileSync('tsv/trips.json');
+let f_trips = JSON.parse(temp);
+
+
 
 console.log('server is starting');
 let app = express();
@@ -25,28 +41,39 @@ function listening() {
 
 
 
-app.get('/agency', agency);
-app.get('/calendar_dates', calendar_dates);
-app.get('/calendar', calendar);
-app.get('/feed_info', feed_info);
-
-function agency(request, response) {
+app.get('/agency', function (request, response) {
   let reply = JSON.stringify(f_agency, null, 2);
   response.send(reply);
-}
-
-function calendar_dates(request, response) {
+});
+app.get('/calendar_dates', function (request, response) {
   let reply = JSON.stringify(f_calendar_dates, null, 2);
   response.send(reply);
-}
-
-function calendar(request, response) {
+});
+app.get('/calendar', function (request, response) {
   let reply = JSON.stringify(f_calendar, null, 2);
   response.send(reply);
-}
-
-function feed_info(request, response) {
+});
+app.get('/feed_info', function (request, response) {
   let reply = JSON.stringify(f_feed_info, null, 2);
   response.send(reply);
-}
-
+});
+app.get('/routes', function (request, response) {
+  let reply = JSON.stringify(f_routes, null, 2);
+  response.send(reply);
+});
+app.get('/shapes', function (request, response) {
+  let reply = JSON.stringify(f_shapes, null, 2);
+  response.send(reply);
+});
+app.get('/stop_times', function (request, response) {
+  let reply = JSON.stringify(f_stop_times, null, 2);
+  response.send(reply);
+});
+app.get('/stops', function (request, response) {
+  let reply = JSON.stringify(f_stops, null, 2);
+  response.send(reply);
+});
+app.get('/trips', function (request, response) {
+  let reply = JSON.stringify(f_trips, null, 2);
+  response.send(reply);
+});

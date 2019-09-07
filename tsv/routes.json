@@ -1,0 +1,132 @@
+[
+  {
+    "route_id": "V200-1181",
+    "route_short_name": 200,
+    "route_long_name": "Ferry Terminal - City - Stockland - Kelso",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V201-1181",
+    "route_short_name": 201,
+    "route_long_name": "Ferry Terminal - City - Stockland - JCU",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V202-1181",
+    "route_short_name": 202,
+    "route_long_name": "City - Stockland - JCU - Hospital",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V203-1181",
+    "route_short_name": 203,
+    "route_long_name": "City - Stockland - Kirwan",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V204-1181",
+    "route_short_name": 204,
+    "route_long_name": "City - Mt Louisa - Stockland",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V205-1181",
+    "route_short_name": 205,
+    "route_long_name": "City - Garbutt - Stockland",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V206-1181",
+    "route_short_name": 206,
+    "route_long_name": "City - Ferry Terminal - The Strand - Pallarenda",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V207-1181",
+    "route_short_name": 207,
+    "route_long_name": "City - Hermit Park - Stuart",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V208-1181",
+    "route_short_name": 208,
+    "route_long_name": "City - Hospital - University - Willows",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V209-1181",
+    "route_short_name": 209,
+    "route_long_name": "City - Wulguru - Hospital - University - Stockland",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V210-1181",
+    "route_short_name": 210,
+    "route_long_name": "University - Hospital - Willows",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V215-1181",
+    "route_short_name": 215,
+    "route_long_name": "City - Garbutt - Stockland",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  },
+  {
+    "route_id": "V233-1181",
+    "route_short_name": 233,
+    "route_long_name": "Stockland - North Shore - Bushland Beach",
+    "route_desc": "",
+    "route_type": 3,
+    "route_url": "",
+    "route_color": "71BF5B",
+    "route_text_color": "000000"
+  }
+]
