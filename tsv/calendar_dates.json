@@ -1,0 +1,36 @@
+{
+    "service_id": {
+        "TSV 19_20-TOWN_FUL-Weekday-01": {
+            "date": "20191007",
+            "exception_type": "2"
+        },
+        "TSV 19_20-TOWN_FUL-Weekday-01-0000100": {
+            "date": "20191007",
+            "exception_type": "2"
+        },
+        "TSV 19_20-TOWN_FUL-Weekday-01": {
+            "date": "20191225",
+            "exception_type": "2"
+        },
+        "TSV 19_20-TOWN_FUL-Weekday-01-0000100": {
+            "date": "20191225",
+            "exception_type": "2"
+        },
+        "TSV 19_20-TOWN_FUL-Weekday-01": {
+            "date": "20191226",
+            "exception_type": "2"
+        },
+        "TSV 19_20-TOWN_FUL-Weekday-01-0000100": {
+            "date": "20191226",
+            "exception_type": "2"
+        },
+        "TSV 19_20-TOWN_FUL-Sunday-01": {
+            "date": "20191007",
+            "exception_type": "1"
+        },
+        "TSV 19_20-TOWN_FUL-Sunday-01": {
+            "date": "20191226",
+            "exception_type": "1"
+        }
+    }
+}

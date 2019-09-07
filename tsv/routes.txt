@@ -1,0 +1,14 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+V200-1181,200,"Ferry Terminal - City - Stockland - Kelso",,3,,71BF5B,000000
+V201-1181,201,"Ferry Terminal - City - Stockland - JCU",,3,,71BF5B,000000
+V202-1181,202,"City - Stockland - JCU - Hospital",,3,,71BF5B,000000
+V203-1181,203,"City - Stockland - Kirwan",,3,,71BF5B,000000
+V204-1181,204,"City - Mt Louisa - Stockland",,3,,71BF5B,000000
+V205-1181,205,"City - Garbutt - Stockland",,3,,71BF5B,000000
+V206-1181,206,"City - Ferry Terminal - The Strand - Pallarenda",,3,,71BF5B,000000
+V207-1181,207,"City - Hermit Park - Stuart",,3,,71BF5B,000000
+V208-1181,208,"City - Hospital - University - Willows",,3,,71BF5B,000000
+V209-1181,209,"City - Wulguru - Hospital - University - Stockland",,3,,71BF5B,000000
+V210-1181,210,"University - Hospital - Willows",,3,,71BF5B,000000
+V215-1181,215,"City - Garbutt - Stockland",,3,,71BF5B,000000
+V233-1181,233,"Stockland - North Shore - Bushland Beach",,3,,71BF5B,000000
