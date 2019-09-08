@@ -32,8 +32,9 @@ let f_trips = JSON.parse(temp);
 
 
 console.log('server is starting');
+let port = process.env.PORT || 80
 let app = express();
-let server = app.listen(3000, listening);
+let server = app.listen(port, listening);
 
 function listening() {
   console.log('listening...');
